@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Michal a Frontend Developer from Slovakia
+# Hi there 👋, I'm Michal
 
 Welcome to my GitHub! I'm a web developer from Slovakia focused on creating beautiful, responsive, and user-friendly web applications.
 
