@@ -1,4 +1,4 @@
-# Hi there, I'm Michal a Frontend Developer from Slovakia 👋
+<h1 align="center" style="border: none">Hi there 👋, I'm Michal a Frontend Developer from Slovakia</h1>
 
 ## 🛠️ Technologies & Tools
 
