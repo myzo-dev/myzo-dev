@@ -1,18 +1,14 @@
-# Hi there, I'm Michal! 👋
-
-Welcome to my GitHub profile! I'm a passionate web developer from Slovakia with a strong focus on building beautiful, responsive, and user-friendly web applications. I love working with modern web technologies and constantly strive to learn and implement the latest trends in web development.
+# Hi there, I'm Michal a Frontend Developer from Slovakia 👋
 
 ## 🛠️ Technologies & Tools
 
-I have experience with a wide range of technologies, frameworks, and tools:
-
-### Frontend Development
+#### Frontend Development
 - **Languages:** HTML, CSS, SASS, JavaScript/TypeScript
 - **Frameworks/Libraries:** React.js/Next.js, Vue.js/Nuxt.js, Astro.js, Alpine.js
 - **CSS Frameworks:** Tailwind CSS
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator, Adobe PremierePro
 
-### CMS & Other Tools
+#### CMS & Other Tools
 - **CMS:** OctoberCMS
 - **Build Tools & Package Managers:** Webpack, Vite, NPM
 - **Version Control:** Git, GitHub/GitLab
