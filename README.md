@@ -5,9 +5,10 @@ A web developer from Slovakia focused on creating beautiful web applications.
 ## 🛠️ Technologies & Tools
 
 #### Frontend Development
+- **Markup:** HTML
+- **CSS:** SASS | TailwindCSS | Bootstrap
 - **Languages:** JS/TS | PHP
 - **Libraries/Frameworks:** React.js/Next.js | Vue.js/Nuxt.js | Astro.js | Alpine.js | Laravel
-- **CSS:** SASS | TailwindCSS | Bootstrap
 - **Design Tools:** Figma | Adobe Photoshop | Adobe Illustrator
 
 #### CMS & Other Tools
@@ -15,9 +16,10 @@ A web developer from Slovakia focused on creating beautiful web applications.
 - **Build Tools:** Webpack | Vite | NPM
 - **Version Control:** Git | GitHub/GitLab
 
-## 📫 How to Reach Me
+## 🔗 Links
 
 I’m always open to new opportunities, collaborations, or just a good conversation. Feel free to connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/michal-valo-421762237/)
 - [Website](https://myzo.sk)
+- [GitLab](https://gitlab.com/myzo)
+- [LinkedIn](https://www.linkedin.com/in/michal-valo-421762237/)
