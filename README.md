@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Michal a Frontend Developer from Slovakia</h1>
+#Hi there 👋, I'm Michal a Frontend Developer from Slovakia
 
 Welcome to my GitHub! I'm a web developer from Slovakia focused on creating beautiful, responsive, and user-friendly web applications.
 
