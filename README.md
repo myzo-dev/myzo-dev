@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Michal
 
-A web developer from Slovakia focused on creating beautiful, responsive, and user-friendly web applications.
+A web developer from Slovakia focused on creating beautiful web applications.
 
 ## 🛠️ Technologies & Tools
 
 #### Frontend Development
 - **Languages:** JS/TS, PHP
-- **Libraries/Frameworks:** React.js/Next.js, Vue.js/Nuxt.js, Astro.js, Alpine.js
-- **CSS:** CSS, SASS TailwindCSS, Bootstrap
+- **Libraries/Frameworks:** React.js/Next.js, Vue.js/Nuxt.js, Astro.js, Alpine.js, Laravel
+- **CSS:** SASS TailwindCSS, Bootstrap
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator
 
 #### CMS & Other Tools
