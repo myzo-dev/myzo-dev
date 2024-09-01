@@ -1,4 +1,6 @@
-<h1 align="center" style="border: none">Hi there 👋, I'm Michal a Frontend Developer from Slovakia</h1>
+<h1 align="center">Hi there 👋, I'm Michal a Frontend Developer from Slovakia</h1>
+
+Welcome to my GitHub! I'm a web developer from Slovakia focused on creating beautiful, responsive, and user-friendly web applications.
 
 ## 🛠️ Technologies & Tools
 
