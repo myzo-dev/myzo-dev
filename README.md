@@ -18,8 +18,6 @@ A web developer from Slovakia focused on creating beautiful web applications.
 
 ## 🔗 Links
 
-I’m always open to new opportunities, collaborations, or just a good conversation. Feel free to connect with me:
-
 - [Website](https://myzo.sk)
 - [GitLab](https://gitlab.com/myzo)
 - [LinkedIn](https://www.linkedin.com/in/michal-valo-421762237/)
