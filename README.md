@@ -5,16 +5,19 @@ A web developer from Slovakia focused on creating beautiful web applications.
 ## 🛠️ Technologies & Tools
 
 #### Frontend Development
-- **Markup:** HTML
-- **CSS:** SASS | TailwindCSS | Bootstrap
-- **Languages:** JS/TS | PHP
-- **Libraries/Frameworks:** React.js/Next.js | Vue.js/Nuxt.js | Astro.js | Alpine.js | Laravel
-- **Design Tools:** Figma | Adobe Photoshop | Adobe Illustrator
+- **Languages:** JavaScript/TypeScript
+- **Libraries/Frameworks:** React.js/Next.js, Vue.js/Nuxt.js, Astro.js, Alpine.js
+- **CSS:** SASS, TailwindCSS, Bootstrap
 
-#### CMS & Other Tools
+#### Backend Development
+- **Languages:** PHP, Node.js
+- **Libraries/Frameworks:** Laravel, Express
 - **CMS:** OctoberCMS
-- **Build Tools:** Webpack | Vite | NPM
-- **Version Control:** Git | GitHub/GitLab
+
+#### Other Tools
+- **Build Tools:** Webpack, Vite, NPM
+- **Version Control:** Git, GitHub/GitLab
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator
 
 ## 🔗 Links
 
