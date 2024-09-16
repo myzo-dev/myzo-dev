@@ -10,8 +10,9 @@ A web developer from Slovakia focused on creating beautiful web applications.
 - **CSS:** SASS, TailwindCSS, Bootstrap
 
 #### Backend Development
-- **Languages:** PHP, Node.js
+- **Languages:** PHP
 - **Libraries/Frameworks:** Laravel, Express
+- **Runtime environment:** Node.js
 - **CMS:** OctoberCMS
 
 #### Other Tools
